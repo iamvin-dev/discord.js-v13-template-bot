@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "crypto.js": "^3.0.0",
+    "cryptojs": "^2.5.3",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.2.10",
+    "pm2": "^5.2.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "bot_token": "YOUR DISCORD BOT TOKEN!",
+    "prefix": "-",
+    "embed_color": "EMBED COLOR (HEX)",
+    "activity": "-example"
+}
